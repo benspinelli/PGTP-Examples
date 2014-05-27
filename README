@@ -1,0 +1,6 @@
+This repository contains example output from the PGTP plugin.
+
+To view a 3D model, simply click on the name of the file. Click and drag
+vertically and horizontally to rotate the camera, and use the mouse wheel to
+zoom in and out. If you are inactive for a few seconds, the camera will
+automatically begin to rotate around the model from its current vantage point.
